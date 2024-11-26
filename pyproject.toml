@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "scc-helical"
+version = "0.1.0"
+description = ""
+authors = ["Martina Oliver Huidobro <martinaoliver1@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+helical = "0.0.1a6"
+jupyter = "^1.1.1"
+GEOparse = "^2.0.4"
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
