@@ -3,3 +3,4 @@ input/
 output/
 **/.ipynb_checkpoints/
 .idea
+**/.DS_Store
